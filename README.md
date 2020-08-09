@@ -1,7 +1,7 @@
 <h1 align="center">Harmonógrafos</h1>
 
 # Descrição do Projeto
-Plotagem animada de um pêndulo amortecido 1D e a trajetória de um pêndulo caótico(harmonógrafo) 2D e 3D. ![aa](https://user-images.githubusercontent.com/65929471/89193696-c1a99980-d57c-11ea-86d3-9ae0796bf046.gif)
+Plotagem animada de um pêndulo amortecido 1D e a trajetória de um pêndulo caótico(harmonógrafo) 2D e 3D.
 
 --- 
 ## Teoria
@@ -44,4 +44,4 @@ Dessa forma, temos 16 parâmetros e cada combinação distinta desses parâmetro
 
 [Harmonograph 1](https://en.wikipedia.org/wiki/Harmonograph)
 
-[Harmonograph 2](http://paulbourke.net/geometry/harmonograph/)
+[Harmonograph 2](http://paulbourke.net/geometry/harmonograph/) ![aa](https://user-images.githubusercontent.com/65929471/89193696-c1a99980-d57c-11ea-86d3-9ae0796bf046.gif)
