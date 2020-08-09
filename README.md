@@ -1,10 +1,10 @@
 <h1 align="center">Harmonógrafos</h1>
 
 # Descrição do Projeto
-Plotagem animada de um pêndulo amortecido 1D e a trajetória de um pêndulo caótico(harmonógrafo) 2D e 3D.
+Plotagem animada de um pêndulo amortecido 1D e a trajetória de um pêndulo caótico(harmonógrafo) 2D e 3D. ![aa](https://user-images.githubusercontent.com/65929471/89193696-c1a99980-d57c-11ea-86d3-9ae0796bf046.gif)
 
 --- 
-# Teoria
+## Teoria
 Um harmonógrafo é um aparelho mecânico que emprega vários pêndulos acoplados para criar imagens geométricas. Os desenhos criados normalmente são curvas de Lissajous, ou até mesmo desenhos de maior complexidade. As imagens são complexas, mas bonitas e elegantes.
 
 Essas imagens podem ser criadas anexando um objeto que escreva como canena ou lápis na parte inferior do pêndulo. Assim, à medida que o pêndulo se move, esses padrões são desenhados. Até mesmo um simples harmonógrafo como descrito pode criar [elipses](https://pt.wikipedia.org/wiki/Elipse), [espirais](https://pt.wikipedia.org/wiki/Espiral), [figura oito](https://en.wiktionary.org/wiki/figure_eight) e outras [figuras de Lissajous](https://pt.wikipedia.org/wiki/Curvas_de_Lissajous).
@@ -28,7 +28,7 @@ Se dois pêndulos estão se movendo ao longo de dois eixos, as equações gerais
 Dessa forma, temos 16 parâmetros e cada combinação distinta desses parâmetros produzirá uma figura diferente, logo teremos infinitas possibilidades.
 
 ---
-# Animações
+## Animações
 
 ### Pêndulo Amortecido
 ![Pendulo_Amortecido](https://user-images.githubusercontent.com/65929471/89720822-b4414480-d9ac-11ea-98b9-8cf271c37ffa.gif)
