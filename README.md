@@ -31,10 +31,10 @@ Dessa forma, temos 16 parâmetros e cada combinação distinta desses parâmetro
 ## Animações
 
 ### Pêndulo Amortecido
-![Pendulo_Amortecido](https://user-images.githubusercontent.com/65929471/89720822-b4414480-d9ac-11ea-98b9-8cf271c37ffa.gif)
+![Pendulo_Amortecido](https://user-images.githubusercontent.com/65929471/97743346-46487d00-1ac4-11eb-972b-e8e1affa4a18.gif)
 
 ### Harmonógrafo 2D
-![salve](https://user-images.githubusercontent.com/65929471/89720373-b48b1100-d9a7-11ea-994d-744f3c1b8227.gif)
+![Harmo2D](https://user-images.githubusercontent.com/65929471/97742564-38462c80-1ac3-11eb-83d1-2929ae4d2363.gif)
 
 ### Harmonógrafo 3D
 ![Harmo3D](https://user-images.githubusercontent.com/65929471/97738270-e4d0e000-1abc-11eb-8abb-0a45eed71ce5.gif)
