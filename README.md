@@ -37,7 +37,7 @@ Dessa forma, temos 16 parâmetros e cada combinação distinta desses parâmetro
 ![salve](https://user-images.githubusercontent.com/65929471/89720373-b48b1100-d9a7-11ea-994d-744f3c1b8227.gif)
 
 ### Harmonógrafo 3D
-![Ha](https://user-images.githubusercontent.com/65929471/89719843-ccac6180-d9a2-11ea-996f-a0b4d92f956b.gif)
+![Harmo3D](https://user-images.githubusercontent.com/65929471/97738270-e4d0e000-1abc-11eb-8abb-0a45eed71ce5.gif)
 
 ---
 ### Referências:
