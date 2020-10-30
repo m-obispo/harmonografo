@@ -34,7 +34,8 @@ Dessa forma, temos 16 parâmetros e cada combinação distinta desses parâmetro
 ![Pendulo_Amortecido](https://user-images.githubusercontent.com/65929471/97743346-46487d00-1ac4-11eb-972b-e8e1affa4a18.gif)
 
 ### Harmonógrafo 2D
-![Harmo2D](https://user-images.githubusercontent.com/65929471/97742564-38462c80-1ac3-11eb-83d1-2929ae4d2363.gif)
+![2D](https://user-images.githubusercontent.com/65929471/97744853-b0fab800-1ac6-11eb-8f61-669373d98a75.gif)
+
 
 ### Harmonógrafo 3D
 ![Harmo3D](https://user-images.githubusercontent.com/65929471/97738270-e4d0e000-1abc-11eb-8abb-0a45eed71ce5.gif)
